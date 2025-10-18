@@ -6,3 +6,4 @@ seaborn
 kneed
 openpyxl
 jupyter
+jinja2
